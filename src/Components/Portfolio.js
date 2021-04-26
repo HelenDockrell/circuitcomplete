@@ -15,6 +15,9 @@ class Portfolio extends Component {
                   <video preload="true" autoplay="true" muted="true" loop>
                       <source src={projectAnimation} type="video/mp4"/>
                   </video>
+                  <a href="#tranquility">
+                      Tranquility
+                  </a>
             </div>
         </div>
       );

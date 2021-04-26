@@ -1,6 +1,7 @@
 # Circuit Complete
 
 ## Site hosted on GitHub Pages
+To deploy updates to the GitHub Page: npm run deploy
 Domain: https://helendockrell.github.io/circuitcomplete/#portfolio
 Guide used: https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f
 

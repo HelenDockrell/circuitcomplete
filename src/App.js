@@ -4,6 +4,7 @@ import $ from "jquery";
 import "./App.css";
 import Header from "./Components/Header";
 import Portfolio from "./Components/Portfolio";
+import Tranquility from "./Components/Tranquility";
 
 class App extends Component {
   constructor(props) {
@@ -39,8 +40,9 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <Header data={this.state.resumeData.main} />
-        <Portfolio data={this.state.resumeData.portfolio} />
+            <Header data={this.state.resumeData.main} />
+            <Portfolio data={this.state.resumeData.portfolio} />
+            <Tranquility/>
       </div>
     );
   }
