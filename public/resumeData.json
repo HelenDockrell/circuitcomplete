@@ -1,0 +1,24 @@
+{
+    "main": {
+        "name": "Circuit Complete",
+        "description": "Something about a circuit"
+    },
+    "portfolio":{
+        "projects": [
+            {
+                "name":"Canadian Wanderlust",
+                "category":"My Travel Blog for my post-university travels",
+                "image":"01.jpg",
+                "url": "https://www.canadianwanderlust.com",
+                "animation":  "example_vid.mp4"
+            },
+            {
+                "name": "Fury Fighting Gear",
+                "category": "(offline now) A fighting gear company I started",
+                "image": "02.jpg",
+                "url": "http://www.timbakerdev.com",
+                "animation": "example_vid.mp4"
+            }
+        ]
+    }
+}
